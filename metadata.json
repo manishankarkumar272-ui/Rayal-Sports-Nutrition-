@@ -1,0 +1,6 @@
+{
+  "name": "Royal Sports & Nutrition",
+  "description": "Official In-Store Catalog & Retail Showcase for Royal Sports & Nutrition. View available protein isolates, mass gainers, sustained blends, and daily multivitamins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
